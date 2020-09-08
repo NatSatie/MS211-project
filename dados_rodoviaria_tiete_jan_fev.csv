@@ -1,0 +1,469 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","1","Sé","3/1/2020 - 3/31/2020, Every day, Daily Average",889,497,1587
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","2","Parque Dom Pedro","3/1/2020 - 3/31/2020, Every day, Daily Average",809,459,1423
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","3","Praça João Mendes","3/1/2020 - 3/31/2020, Every day, Daily Average",1142,651,2001
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","4","Ladeira da Memória","3/1/2020 - 3/31/2020, Every day, Daily Average",924,531,1605
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","5","República","3/1/2020 - 3/31/2020, Every day, Daily Average",880,497,1555
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","6","Santa Ifigênia","3/1/2020 - 3/31/2020, Every day, Daily Average",715,405,1260
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","7","Luz","3/1/2020 - 3/31/2020, Every day, Daily Average",516,296,898
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","8","Bom Retiro","3/1/2020 - 3/31/2020, Every day, Daily Average",809,391,1671
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","9","Ponte Pequena","3/1/2020 - 3/31/2020, Every day, Daily Average",286,137,596
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","10","Canindé","3/1/2020 - 3/31/2020, Every day, Daily Average",326,130,816
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","11","Bom Jardim","3/1/2020 - 3/31/2020, Every day, Daily Average",487,269,879
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","12","Pari","3/1/2020 - 3/31/2020, Every day, Daily Average",622,389,993
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","13","João Teodoro","3/1/2020 - 3/31/2020, Every day, Daily Average",894,516,1546
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","14","Oriente","3/1/2020 - 3/31/2020, Every day, Daily Average",920,620,1363
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","15","Bresser","3/1/2020 - 3/31/2020, Every day, Daily Average",1092,753,1582
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","16","Brás","3/1/2020 - 3/31/2020, Every day, Daily Average",1189,717,1970
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","17","Gasômetro","3/1/2020 - 3/31/2020, Every day, Daily Average",1018,593,1746
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","18","Independência","3/1/2020 - 3/31/2020, Every day, Daily Average",1010,672,1517
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","19","Cambuci","3/1/2020 - 3/31/2020, Every day, Daily Average",1289,892,1861
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","20","Glicério","3/1/2020 - 3/31/2020, Every day, Daily Average",1342,868,2073
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","21","Aclimação","3/1/2020 - 3/31/2020, Every day, Daily Average",1465,1014,2115
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","22","Pires da Mota","3/1/2020 - 3/31/2020, Every day, Daily Average",1360,900,2054
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","23","Centro Cultural","3/1/2020 - 3/31/2020, Every day, Daily Average",1226,721,2084
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","24","Liberdade","3/1/2020 - 3/31/2020, Every day, Daily Average",1277,733,2223
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","25","Treze de Maio","3/1/2020 - 3/31/2020, Every day, Daily Average",1097,626,1920
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","26","Bexiga","3/1/2020 - 3/31/2020, Every day, Daily Average",1013,595,1722
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","27","Bela Vista","3/1/2020 - 3/31/2020, Every day, Daily Average",1135,674,1909
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","28","São Carlos do Pinhal","3/1/2020 - 3/31/2020, Every day, Daily Average",1601,977,2621
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","29","Masp","3/1/2020 - 3/31/2020, Every day, Daily Average",1170,696,1964
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","30","Higienópolis","3/1/2020 - 3/31/2020, Every day, Daily Average",1419,943,2133
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","31","Vila Buarque","3/1/2020 - 3/31/2020, Every day, Daily Average",1470,889,2428
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","32","Consolação","3/1/2020 - 3/31/2020, Every day, Daily Average",1596,998,2551
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","33","Pacaembu","3/1/2020 - 3/31/2020, Every day, Daily Average",1134,761,1688
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","34","FAAP","3/1/2020 - 3/31/2020, Every day, Daily Average",1066,698,1627
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","35","Santa Cecília","3/1/2020 - 3/31/2020, Every day, Daily Average",1038,618,1742
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","36","Marechal Deodoro","3/1/2020 - 3/31/2020, Every day, Daily Average",863,523,1423
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","37","Rudge","3/1/2020 - 3/31/2020, Every day, Daily Average",488,289,823
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","38","Catumbi","3/1/2020 - 3/31/2020, Every day, Daily Average",581,334,1007
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","39","Belém","3/1/2020 - 3/31/2020, Every day, Daily Average",713,420,1210
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","40","Quarta Parada","3/1/2020 - 3/31/2020, Every day, Daily Average",1015,670,1537
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","41","Belenzinho","3/1/2020 - 3/31/2020, Every day, Daily Average",913,606,1373
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","42","Celso Garcia","3/1/2020 - 3/31/2020, Every day, Daily Average",774,524,1143
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","43","Mooca","3/1/2020 - 3/31/2020, Every day, Daily Average",1261,849,1872
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","44","Alto da Mooca","3/1/2020 - 3/31/2020, Every day, Daily Average",1521,1111,2082
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","45","Parque da Mooca","3/1/2020 - 3/31/2020, Every day, Daily Average",1347,947,1915
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","46","Água Rasa","3/1/2020 - 3/31/2020, Every day, Daily Average",1490,1033,2147
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","47","Vila Bertioga","3/1/2020 - 3/31/2020, Every day, Daily Average",1351,943,1933
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","48","Regente Feijó","3/1/2020 - 3/31/2020, Every day, Daily Average",1151,789,1676
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","49","Ana Rosa","3/1/2020 - 3/31/2020, Every day, Daily Average",1248,758,2053
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","50","Jardim da Glória","3/1/2020 - 3/31/2020, Every day, Daily Average",1472,1053,2057
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","51","Chácara Klabin","3/1/2020 - 3/31/2020, Every day, Daily Average",1599,1151,2220
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","52","Vila Mariana","3/1/2020 - 3/31/2020, Every day, Daily Average",1621,1121,2342
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","53","Santa Cruz","3/1/2020 - 3/31/2020, Every day, Daily Average",1673,1193,2344
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","54","Vila Clementino","3/1/2020 - 3/31/2020, Every day, Daily Average",1566,993,2469
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","55","França Pinto","3/1/2020 - 3/31/2020, Every day, Daily Average",1494,973,2292
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","56","Rodrigues Alves","3/1/2020 - 3/31/2020, Every day, Daily Average",1208,738,1976
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","57","Paraíso","3/1/2020 - 3/31/2020, Every day, Daily Average",1236,752,2031
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","58","Bosque da Saúde","3/1/2020 - 3/31/2020, Every day, Daily Average",1819,1336,2475
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","59","Saúde","3/1/2020 - 3/31/2020, Every day, Daily Average",2042,1473,2828
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","60","Planalto Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",1672,1072,2607
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","61","Mirandópolis","3/1/2020 - 3/31/2020, Every day, Daily Average",1640,1045,2572
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","62","Parque Ibirapuera","3/1/2020 - 3/31/2020, Every day, Daily Average",1358,839,2197
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","63","Jardim Luzitânia","3/1/2020 - 3/31/2020, Every day, Daily Average",1431,898,2278
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","64","Moema","3/1/2020 - 3/31/2020, Every day, Daily Average",1584,1009,2486
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","65","Vila Helena","3/1/2020 - 3/31/2020, Every day, Daily Average",2011,1325,3050
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","66","Bandeirantes","3/1/2020 - 3/31/2020, Every day, Daily Average",1745,1119,2721
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","67","Vila Nova Conceição","3/1/2020 - 3/31/2020, Every day, Daily Average",1730,1065,2809
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","68","Chácara Itaim","3/1/2020 - 3/31/2020, Every day, Daily Average",1960,1235,3109
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","69","Vila Olímpia","3/1/2020 - 3/31/2020, Every day, Daily Average",2040,1276,3260
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","70","Hélio Pelegrino","3/1/2020 - 3/31/2020, Every day, Daily Average",2255,1493,3404
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","71","Brooklin","3/1/2020 - 3/31/2020, Every day, Daily Average",2058,1395,3035
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","72","Vila Cordeiro","3/1/2020 - 3/31/2020, Every day, Daily Average",2251,1511,3351
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","73","Berrini","3/1/2020 - 3/31/2020, Every day, Daily Average",2113,1365,3270
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","74","Campinas","3/1/2020 - 3/31/2020, Every day, Daily Average",1401,834,2351
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","75","Pamplona","3/1/2020 - 3/31/2020, Every day, Daily Average",1360,824,2243
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","76","Jardins","3/1/2020 - 3/31/2020, Every day, Daily Average",1730,1070,2796
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","77","Clínicas","3/1/2020 - 3/31/2020, Every day, Daily Average",1462,963,2219
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","78","Oscar Freire","3/1/2020 - 3/31/2020, Every day, Daily Average",1442,901,2306
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","79","Trianon","3/1/2020 - 3/31/2020, Every day, Daily Average",1394,852,2279
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","80","Jardim Paulistano","3/1/2020 - 3/31/2020, Every day, Daily Average",1694,1162,2469
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","81","Jardim Europa","3/1/2020 - 3/31/2020, Every day, Daily Average",2009,1270,3177
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","82","Pinheiros","3/1/2020 - 3/31/2020, Every day, Daily Average",2043,1354,3080
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","83","Vila Madalena","3/1/2020 - 3/31/2020, Every day, Daily Average",1458,1016,2090
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","84","PUC","3/1/2020 - 3/31/2020, Every day, Daily Average",1031,677,1569
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","85","Cardoso de Almeida","3/1/2020 - 3/31/2020, Every day, Daily Average",924,622,1371
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","86","Zequinha de Abreu","3/1/2020 - 3/31/2020, Every day, Daily Average",1146,792,1657
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","87","Sumaré","3/1/2020 - 3/31/2020, Every day, Daily Average",1208,855,1704
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","88","Perdizes","3/1/2020 - 3/31/2020, Every day, Daily Average",958,655,1399
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","89","Vila Anglo Brasileira","3/1/2020 - 3/31/2020, Every day, Daily Average",1354,966,1897
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","90","Pompéia","3/1/2020 - 3/31/2020, Every day, Daily Average",1038,722,1492
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","91","Santa Marina","3/1/2020 - 3/31/2020, Every day, Daily Average",670,431,1039
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","92","Barra Funda","3/1/2020 - 3/31/2020, Every day, Daily Average",571,325,1001
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","93","Francisco Matarazzo","3/1/2020 - 3/31/2020, Every day, Daily Average",764,491,1186
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","94","Água Branca","3/1/2020 - 3/31/2020, Every day, Daily Average",797,532,1191
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","95","Vila Beatriz","3/1/2020 - 3/31/2020, Every day, Daily Average",1729,1252,2387
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","96","Alto de Pinheiros","3/1/2020 - 3/31/2020, Every day, Daily Average",1945,1273,2971
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","97","Boaçava","3/1/2020 - 3/31/2020, Every day, Daily Average",1832,1239,2708
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","98","Vila Anastácio","3/1/2020 - 3/31/2020, Every day, Daily Average",1693,896,3196
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","99","Lapa de Baixo","3/1/2020 - 3/31/2020, Every day, Daily Average",989,629,1552
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","100","Lapa","3/1/2020 - 3/31/2020, Every day, Daily Average",1095,782,1532
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","101","Vila Ipojuca","3/1/2020 - 3/31/2020, Every day, Daily Average",1346,961,1884
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","102","Alto da Lapa","3/1/2020 - 3/31/2020, Every day, Daily Average",1438,1021,2024
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","103","Gavião Peixoto","3/1/2020 - 3/31/2020, Every day, Daily Average",1151,800,1655
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","104","Bela Aliança","3/1/2020 - 3/31/2020, Every day, Daily Average",1227,869,1731
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","105","Vila Hamburguesa","3/1/2020 - 3/31/2020, Every day, Daily Average",1510,1085,2101
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","106","CEASA","3/1/2020 - 3/31/2020, Every day, Daily Average",1773,1151,2728
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","107","Vila Leopoldina","3/1/2020 - 3/31/2020, Every day, Daily Average",1391,1019,1897
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","108","Emissário","3/1/2020 - 3/31/2020, Every day, Daily Average",1003,704,1428
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","109","Vila Zatt","3/1/2020 - 3/31/2020, Every day, Daily Average",1109,785,1564
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","110","Pirituba","3/1/2020 - 3/31/2020, Every day, Daily Average",689,491,966
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","111","São Domingos","3/1/2020 - 3/31/2020, Every day, Daily Average",766,550,1066
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","112","Jardim Mutinga","3/1/2020 - 3/31/2020, Every day, Daily Average",1137,838,1541
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","113","Vila Jaguara","3/1/2020 - 3/31/2020, Every day, Daily Average",862,625,1187
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","114","Parque do Jaraguá","3/1/2020 - 3/31/2020, Every day, Daily Average",1518,1144,2012
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","115","Nova Jaraguá","3/1/2020 - 3/31/2020, Every day, Daily Average",1190,853,1658
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","116","Parada de Taipas","3/1/2020 - 3/31/2020, Every day, Daily Average",1803,1405,2312
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","117","Parque Morro Doce","3/1/2020 - 3/31/2020, Every day, Daily Average",1579,1183,2106
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","118","Anhanguera","3/1/2020 - 3/31/2020, Every day, Daily Average",1491,1131,1965
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","119","Perus","3/1/2020 - 3/31/2020, Every day, Daily Average",1337,992,1800
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","121","Jardim Damasceno","3/1/2020 - 3/31/2020, Every day, Daily Average",1843,1377,2464
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","122","Vila Souza","3/1/2020 - 3/31/2020, Every day, Daily Average",1893,1443,2483
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","123","Vila Terezinha","3/1/2020 - 3/31/2020, Every day, Daily Average",1480,1130,1938
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","124","Brasilândia","3/1/2020 - 3/31/2020, Every day, Daily Average",1334,1000,1779
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","125","Vila Morro Grande","3/1/2020 - 3/31/2020, Every day, Daily Average",1124,842,1499
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","126","Itaberaba","3/1/2020 - 3/31/2020, Every day, Daily Average",1134,846,1519
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","127","Freguesia do Ó","3/1/2020 - 3/31/2020, Every day, Daily Average",581,408,825
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","128","Carandiru","3/1/2020 - 3/31/2020, Every day, Daily Average",175,97,314
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","129","Santana","3/1/2020 - 3/31/2020, Every day, Daily Average",320,204,500
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","130","Zaki Narchi","3/1/2020 - 3/31/2020, Every day, Daily Average",204,112,370
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","131","Tietê","3/1/2020 - 3/31/2020, Every day, Daily Average",232,79,673
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","132","Parque Anhembi","3/1/2020 - 3/31/2020, Every day, Daily Average",153,66,349
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","133","Alfredo Pujol","3/1/2020 - 3/31/2020, Every day, Daily Average",470,323,683
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","134","Santa Terezinha","3/1/2020 - 3/31/2020, Every day, Daily Average",681,488,949
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","135","Jardim São Paulo","3/1/2020 - 3/31/2020, Every day, Daily Average",645,464,896
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","136","Casa Verde","3/1/2020 - 3/31/2020, Every day, Daily Average",322,215,480
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","137","Parque Peruche","3/1/2020 - 3/31/2020, Every day, Daily Average",725,510,1029
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","138","Limão","3/1/2020 - 3/31/2020, Every day, Daily Average",442,312,626
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","139","Jardim Primavera","3/1/2020 - 3/31/2020, Every day, Daily Average",801,588,1089
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","140","Vila Santa Maria","3/1/2020 - 3/31/2020, Every day, Daily Average",888,637,1236
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","141","Cachoeirinha","3/1/2020 - 3/31/2020, Every day, Daily Average",1334,1026,1734
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","142","Jardim Peri","3/1/2020 - 3/31/2020, Every day, Daily Average",1642,1272,2118
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","143","Reserva da Cantareira","3/1/2020 - 3/31/2020, Every day, Daily Average",1790,1430,2239
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","144","Mandaqui","3/1/2020 - 3/31/2020, Every day, Daily Average",961,707,1304
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","145","Horto Florestal","3/1/2020 - 3/31/2020, Every day, Daily Average",1300,985,1714
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","146","ETA Guaraú","3/1/2020 - 3/31/2020, Every day, Daily Average",1738,1422,2123
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","147","Parque Palmas do Tremembé","3/1/2020 - 3/31/2020, Every day, Daily Average",1298,994,1694
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","148","Tremembé","3/1/2020 - 3/31/2020, Every day, Daily Average",1264,957,1669
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","149","Cantareira","3/1/2020 - 3/31/2020, Every day, Daily Average",1841,1335,2536
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","150","Jardim das Pedras","3/1/2020 - 3/31/2020, Every day, Daily Average",1745,1225,2483
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","151","Jardim Guapira","3/1/2020 - 3/31/2020, Every day, Daily Average",1374,1035,1824
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","152","Parada Inglesa","3/1/2020 - 3/31/2020, Every day, Daily Average",706,537,926
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","153","Tucuruvi","3/1/2020 - 3/31/2020, Every day, Daily Average",1006,766,1321
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","154","Vila Gustavo","3/1/2020 - 3/31/2020, Every day, Daily Average",962,731,1265
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","155","Cohab Jova Rural","3/1/2020 - 3/31/2020, Every day, Daily Average",1536,1016,2320
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","156","Jaçanã","3/1/2020 - 3/31/2020, Every day, Daily Average",1267,898,1787
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","157","Parque Edu Chaves","3/1/2020 - 3/31/2020, Every day, Daily Average",1314,832,2074
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","158","Vila Medeiros","3/1/2020 - 3/31/2020, Every day, Daily Average",1030,766,1383
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","159","Jardim Brasil","3/1/2020 - 3/31/2020, Every day, Daily Average",1400,909,2155
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","160","Jardim Japão","3/1/2020 - 3/31/2020, Every day, Daily Average",1035,703,1523
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","161","Parque Novo Mundo","3/1/2020 - 3/31/2020, Every day, Daily Average",857,519,1412
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","162","Vila Maria","3/1/2020 - 3/31/2020, Every day, Daily Average",873,511,1490
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","163","Vila Isolina Mazzei","3/1/2020 - 3/31/2020, Every day, Daily Average",492,353,684
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","164","Vila Guilherme","3/1/2020 - 3/31/2020, Every day, Daily Average",655,398,1076
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","165","Coroa","3/1/2020 - 3/31/2020, Every day, Daily Average",254,143,450
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","166","Gomes Cardim","3/1/2020 - 3/31/2020, Every day, Daily Average",1394,918,2115
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","167","Tatuapé","3/1/2020 - 3/31/2020, Every day, Daily Average",1236,780,1957
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","168","Chácara do Piqueri","3/1/2020 - 3/31/2020, Every day, Daily Average",877,520,1479
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","169","Parque São Jorge","3/1/2020 - 3/31/2020, Every day, Daily Average",1002,611,1640
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","170","Penha","3/1/2020 - 3/31/2020, Every day, Daily Average",1116,693,1796
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","171","Tiquatira","3/1/2020 - 3/31/2020, Every day, Daily Average",1408,915,2166
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","172","Vila Esperança","3/1/2020 - 3/31/2020, Every day, Daily Average",1622,1045,2515
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","173","Vila Ré","3/1/2020 - 3/31/2020, Every day, Daily Average",1971,1387,2799
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","174","Rui Barbosa","3/1/2020 - 3/31/2020, Every day, Daily Average",1809,1241,2635
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","175","Estação Eng. Goulart","3/1/2020 - 3/31/2020, Every day, Daily Average",1611,1082,2397
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","176","Cangaíba","3/1/2020 - 3/31/2020, Every day, Daily Average",1358,901,2046
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","177","Parque Ecológico do Tietê","3/1/2020 - 3/31/2020, Every day, Daily Average",1324,851,2059
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","178","USP Leste I","3/1/2020 - 3/31/2020, Every day, Daily Average",1484,944,2331
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","179","USP Leste II","3/1/2020 - 3/31/2020, Every day, Daily Average",1475,1014,2144
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","180","Ermelino Matarazzo","3/1/2020 - 3/31/2020, Every day, Daily Average",1482,995,2206
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","181","Parque Buturussu","3/1/2020 - 3/31/2020, Every day, Daily Average",2088,1367,3188
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","182","Ponte Rasa","3/1/2020 - 3/31/2020, Every day, Daily Average",1815,1268,2597
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","183","Burgo Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",2226,1597,3101
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","184","Limoeiro","3/1/2020 - 3/31/2020, Every day, Daily Average",2610,1641,4150
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","185","Laranja da China","3/1/2020 - 3/31/2020, Every day, Daily Average",2164,1469,3186
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","186","Pedro José Nunes","3/1/2020 - 3/31/2020, Every day, Daily Average",2061,1408,3015
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","187","Parque Cruzeiro do Sul","3/1/2020 - 3/31/2020, Every day, Daily Average",2033,1362,3034
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","188","Vila Jacuí","3/1/2020 - 3/31/2020, Every day, Daily Average",1903,1284,2819
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","189","Parada XV","3/1/2020 - 3/31/2020, Every day, Daily Average",2466,1722,3530
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","190","Itaquera","3/1/2020 - 3/31/2020, Every day, Daily Average",2524,1759,3620
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","191","Arena Corinthians","3/1/2020 - 3/31/2020, Every day, Daily Average",2453,1714,3510
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","192","Vila Campanela","3/1/2020 - 3/31/2020, Every day, Daily Average",2487,1752,3530
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","194","Parque Guarani","3/1/2020 - 3/31/2020, Every day, Daily Average",2282,1554,3350
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","195","Rio Verde","3/1/2020 - 3/31/2020, Every day, Daily Average",2532,1663,3853
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","196","Saudade","3/1/2020 - 3/31/2020, Every day, Daily Average",2646,1855,3772
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","197","São Miguel Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",1822,1233,2691
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","198","Cidade Nitro-Operária","3/1/2020 - 3/31/2020, Every day, Daily Average",2335,1666,3271
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","199","Jardim Helena","3/1/2020 - 3/31/2020, Every day, Daily Average",2167,1458,3220
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","200","Jardim Romano","3/1/2020 - 3/31/2020, Every day, Daily Average",2695,1877,3868
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","201","Vila Curuçá","3/1/2020 - 3/31/2020, Every day, Daily Average",2582,1680,3967
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","202","Jardim Robru","3/1/2020 - 3/31/2020, Every day, Daily Average",2912,2075,4086
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","203","Lajeado","3/1/2020 - 3/31/2020, Every day, Daily Average",3049,2202,4220
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","204","Fábrica Bandeirantes","3/1/2020 - 3/31/2020, Every day, Daily Average",3189,2231,4557
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","205","Fazenda Itaim","3/1/2020 - 3/31/2020, Every day, Daily Average",3084,2090,4549
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","206","Itaim Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",2840,1880,4288
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","207","Jardim das Oliveiras","3/1/2020 - 3/31/2020, Every day, Daily Average",3235,1945,5377
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","208","Vila Califórnia","3/1/2020 - 3/31/2020, Every day, Daily Average",1300,857,1970
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","209","Vila Carrão","3/1/2020 - 3/31/2020, Every day, Daily Average",1542,1055,2253
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","210","Jardim Anália Franco","3/1/2020 - 3/31/2020, Every day, Daily Average",1588,1164,2165
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","211","Vila Formosa","3/1/2020 - 3/31/2020, Every day, Daily Average",1835,1182,2847
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","212","Barreira Grande","3/1/2020 - 3/31/2020, Every day, Daily Average",2193,1594,3016
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","213","Aricanduva","3/1/2020 - 3/31/2020, Every day, Daily Average",1817,1271,2596
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","214","Frei Mont'Alverne","3/1/2020 - 3/31/2020, Every day, Daily Average",1275,799,2034
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","215","Vila Matilde","3/1/2020 - 3/31/2020, Every day, Daily Average",1660,1081,2548
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","216","Cidade Patriarca","3/1/2020 - 3/31/2020, Every day, Daily Average",1764,1225,2539
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","217","Cidade A.E.Carvalho","3/1/2020 - 3/31/2020, Every day, Daily Average",2236,1584,3155
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","218","Artur Alvim","3/1/2020 - 3/31/2020, Every day, Daily Average",2134,1440,3160
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","219","Cidade Líder","3/1/2020 - 3/31/2020, Every day, Daily Average",2052,1371,3070
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","220","Santa Marcelina","3/1/2020 - 3/31/2020, Every day, Daily Average",2478,1743,3521
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","221","Parque Savoy","3/1/2020 - 3/31/2020, Every day, Daily Average",2384,1698,3345
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","222","Vila Carmosina","3/1/2020 - 3/31/2020, Every day, Daily Average",2711,1837,3999
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","223","Fazenda Caguaçu","3/1/2020 - 3/31/2020, Every day, Daily Average",3070,2006,4697
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","224","Parque do Carmo","3/1/2020 - 3/31/2020, Every day, Daily Average",2974,2047,4320
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","225","Gleba do Pêssego","3/1/2020 - 3/31/2020, Every day, Daily Average",3627,2495,5271
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","226","José Bonifácio","3/1/2020 - 3/31/2020, Every day, Daily Average",2939,2074,4164
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","227","Guaianases","3/1/2020 - 3/31/2020, Every day, Daily Average",3262,2142,4965
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","229","Cidade Tiradentes","3/1/2020 - 3/31/2020, Every day, Daily Average",3717,2555,5407
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","231","Terceira Divisão","3/1/2020 - 3/31/2020, Every day, Daily Average",3232,2445,4270
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","232","Iguatemi","3/1/2020 - 3/31/2020, Every day, Daily Average",2958,2275,3844
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","233","Sítio Carrãozinho","3/1/2020 - 3/31/2020, Every day, Daily Average",2795,2116,3690
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","234","Parque São Rafael","3/1/2020 - 3/31/2020, Every day, Daily Average",3249,2493,4233
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","235","Rodolfo Pirani","3/1/2020 - 3/31/2020, Every day, Daily Average",3114,2403,4033
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","236","Ipiranga","3/1/2020 - 3/31/2020, Every day, Daily Average",1430,993,2058
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","237","Sacomã","3/1/2020 - 3/31/2020, Every day, Daily Average",1614,1127,2311
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","238","Alto do Ipiranga","3/1/2020 - 3/31/2020, Every day, Daily Average",1726,1222,2436
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","239","Vila São José","3/1/2020 - 3/31/2020, Every day, Daily Average",1626,1137,2324
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","240","Vila Monumento","3/1/2020 - 3/31/2020, Every day, Daily Average",1188,818,1724
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","241","Vila Independência","3/1/2020 - 3/31/2020, Every day, Daily Average",1265,843,1898
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","242","Vila Carioca","3/1/2020 - 3/31/2020, Every day, Daily Average",2071,1324,3239
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","243","Moinho Velho","3/1/2020 - 3/31/2020, Every day, Daily Average",1921,1331,2771
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","244","Vila Heliópolis","3/1/2020 - 3/31/2020, Every day, Daily Average",2290,1514,3462
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","245","São João Clímaco","3/1/2020 - 3/31/2020, Every day, Daily Average",2246,1612,3127
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","246","Anchieta","3/1/2020 - 3/31/2020, Every day, Daily Average",2190,1548,3096
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","247","Vila das Mercês","3/1/2020 - 3/31/2020, Every day, Daily Average",2121,1502,2993
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","248","Parque do Estado","3/1/2020 - 3/31/2020, Every day, Daily Average",2590,1807,3711
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","249","Água Funda","3/1/2020 - 3/31/2020, Every day, Daily Average",2395,1642,3491
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","250","Jardim da Saúde","3/1/2020 - 3/31/2020, Every day, Daily Average",2123,1527,2950
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","251","Vila Gumercindo","3/1/2020 - 3/31/2020, Every day, Daily Average",1807,1315,2482
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","252","Jardim Previdência","3/1/2020 - 3/31/2020, Every day, Daily Average",2328,1582,3424
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","253","Tamanduateí","3/1/2020 - 3/31/2020, Every day, Daily Average",1681,1114,2535
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","254","Orfanato","3/1/2020 - 3/31/2020, Every day, Daily Average",1676,1181,2378
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","255","Vila Zelina","3/1/2020 - 3/31/2020, Every day, Daily Average",1948,1437,2639
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","256","Linhas Corrente","3/1/2020 - 3/31/2020, Every day, Daily Average",1844,1331,2554
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","257","Vila Ema","3/1/2020 - 3/31/2020, Every day, Daily Average",2051,1269,3312
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","258","Parque São Lucas","3/1/2020 - 3/31/2020, Every day, Daily Average",2174,1669,2830
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","259","Vila Cardoso Franco","3/1/2020 - 3/31/2020, Every day, Daily Average",2818,2187,3630
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","260","Parque Santa Madalena","3/1/2020 - 3/31/2020, Every day, Daily Average",2386,1832,3106
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","261","Jardim Colorado","3/1/2020 - 3/31/2020, Every day, Daily Average",2342,1780,3080
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","262","Teotônio Vilela","3/1/2020 - 3/31/2020, Every day, Daily Average",2460,1872,3231
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","263","Fazenda da Juta","3/1/2020 - 3/31/2020, Every day, Daily Average",2839,2214,3638
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","264","São Mateus","3/1/2020 - 3/31/2020, Every day, Daily Average",2490,1896,3269
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","265","Cidade IV Centenário","3/1/2020 - 3/31/2020, Every day, Daily Average",2211,1569,3115
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","266","Rio Claro","3/1/2020 - 3/31/2020, Every day, Daily Average",2123,1533,2939
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","267","Cidade Satélite","3/1/2020 - 3/31/2020, Every day, Daily Average",2440,1851,3214
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","268","Joaquim Nabuco","3/1/2020 - 3/31/2020, Every day, Daily Average",2040,1342,3099
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","269","Vieira de Moraes","3/1/2020 - 3/31/2020, Every day, Daily Average",1953,1265,3013
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","270","Campo Belo","3/1/2020 - 3/31/2020, Every day, Daily Average",1808,1172,2786
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","271","Congonhas","3/1/2020 - 3/31/2020, Every day, Daily Average",1898,1241,2901
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","272","Jardim Aeroporto","3/1/2020 - 3/31/2020, Every day, Daily Average",1978,1314,2976
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","273","Vila Santa Catarina","3/1/2020 - 3/31/2020, Every day, Daily Average",2159,1524,3057
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","274","Jabaquara","3/1/2020 - 3/31/2020, Every day, Daily Average",2322,1582,3407
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","275","Cidade Vargas","3/1/2020 - 3/31/2020, Every day, Daily Average",2216,1527,3215
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","276","Jardim Bom Clima","3/1/2020 - 3/31/2020, Every day, Daily Average",2449,1734,3456
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","277","Cupecê","3/1/2020 - 3/31/2020, Every day, Daily Average",2186,1486,3213
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","278","Jardim Miriam","3/1/2020 - 3/31/2020, Every day, Daily Average",2780,2026,3813
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","279","Vila Missionária","3/1/2020 - 3/31/2020, Every day, Daily Average",2751,2050,3691
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","280","Jurubatuba","3/1/2020 - 3/31/2020, Every day, Daily Average",2633,1841,3764
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","281","Vila São Pedro","3/1/2020 - 3/31/2020, Every day, Daily Average",2360,1590,3501
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","282","Campo Grande","3/1/2020 - 3/31/2020, Every day, Daily Average",2522,1808,3517
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","283","Vila Sabará","3/1/2020 - 3/31/2020, Every day, Daily Average",2811,2011,3927
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","284","Mar Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",2953,2218,3930
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","285","Pedreira","3/1/2020 - 3/31/2020, Every day, Daily Average",3305,2457,4444
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","286","Vila Socorro","3/1/2020 - 3/31/2020, Every day, Daily Average",3105,2063,4671
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","287","Parque Interlagos","3/1/2020 - 3/31/2020, Every day, Daily Average",2956,2138,4086
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","288","Jardim Represa","3/1/2020 - 3/31/2020, Every day, Daily Average",3145,2312,4277
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","289","Rio Bonito","3/1/2020 - 3/31/2020, Every day, Daily Average",3277,2310,4647
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","290","SESC Interlagos","3/1/2020 - 3/31/2020, Every day, Daily Average",3238,2304,4549
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","291","Jardim Presidente","3/1/2020 - 3/31/2020, Every day, Daily Average",3768,2781,5105
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","292","Vila Natal","3/1/2020 - 3/31/2020, Every day, Daily Average",4543,3484,5922
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","293","Grajaú","3/1/2020 - 3/31/2020, Every day, Daily Average",3934,2970,5210
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","294","Cocaia","3/1/2020 - 3/31/2020, Every day, Daily Average",4557,3411,6087
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","295","Belmira Marin","3/1/2020 - 3/31/2020, Every day, Daily Average",4573,3409,6132
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","297","Jaceguava","3/1/2020 - 3/31/2020, Every day, Daily Average",4270,3205,5687
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","298","Parelheiros","3/1/2020 - 3/31/2020, Every day, Daily Average",4564,3461,6017
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","300","Granja Julieta","3/1/2020 - 3/31/2020, Every day, Daily Average",2537,1685,3818
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","301","Chácara Flora","3/1/2020 - 3/31/2020, Every day, Daily Average",2245,1472,3423
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","302","Santo Amaro","3/1/2020 - 3/31/2020, Every day, Daily Average",2768,1805,4242
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","303","Vila Miranda","3/1/2020 - 3/31/2020, Every day, Daily Average",2944,1851,4680
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","304","Jardim São Luís","3/1/2020 - 3/31/2020, Every day, Daily Average",2571,1795,3681
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","305","Centro Empresarial","3/1/2020 - 3/31/2020, Every day, Daily Average",2597,1728,3902
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","306","Guarapiranga","3/1/2020 - 3/31/2020, Every day, Daily Average",3083,2136,4448
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","307","Jardim Capela","3/1/2020 - 3/31/2020, Every day, Daily Average",4309,3273,5671
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","308","Riviera","3/1/2020 - 3/31/2020, Every day, Daily Average",3790,2914,4928
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","309","Jardim Turquesa","3/1/2020 - 3/31/2020, Every day, Daily Average",3657,2826,4730
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","310","Morro do Índio","3/1/2020 - 3/31/2020, Every day, Daily Average",3414,2539,4590
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","311","Jardim Ângela","3/1/2020 - 3/31/2020, Every day, Daily Average",3316,2407,4566
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","312","Capão Redondo","3/1/2020 - 3/31/2020, Every day, Daily Average",2802,2036,3856
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","313","Jardim Sônia Ingá","3/1/2020 - 3/31/2020, Every day, Daily Average",3417,2496,4676
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","314","Adventista","3/1/2020 - 3/31/2020, Every day, Daily Average",3264,2413,4414
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","315","Parque Fernanda","3/1/2020 - 3/31/2020, Every day, Daily Average",3246,2486,4237
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","316","Morumbi","3/1/2020 - 3/31/2020, Every day, Daily Average",2176,1527,3099
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","317","Jóquei Clube","3/1/2020 - 3/31/2020, Every day, Daily Average",1728,1168,2554
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","318","Fazenda Morumbi","3/1/2020 - 3/31/2020, Every day, Daily Average",1931,1327,2808
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","319","Real Parque","3/1/2020 - 3/31/2020, Every day, Daily Average",2327,1640,3300
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","320","Paraisópolis","3/1/2020 - 3/31/2020, Every day, Daily Average",2082,1438,3012
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","321","Jardim Vitória Régia","3/1/2020 - 3/31/2020, Every day, Daily Average",2294,1580,3328
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","322","Vila Suzana","3/1/2020 - 3/31/2020, Every day, Daily Average",2531,1813,3532
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","323","Parque Arariba","3/1/2020 - 3/31/2020, Every day, Daily Average",2758,2052,3706
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","324","Jardim Mitsutani","3/1/2020 - 3/31/2020, Every day, Daily Average",3186,2452,4139
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","325","Pirajussara","3/1/2020 - 3/31/2020, Every day, Daily Average",3107,2334,4135
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","326","Jardim Umarizal","3/1/2020 - 3/31/2020, Every day, Daily Average",2856,2169,3759
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","327","Portal do Morumbi","3/1/2020 - 3/31/2020, Every day, Daily Average",2591,1895,3541
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","328","Jardim Jussara","3/1/2020 - 3/31/2020, Every day, Daily Average",2451,1791,3353
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","329","Vila Sônia","3/1/2020 - 3/31/2020, Every day, Daily Average",2288,1659,3155
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","330","Jardim Maria do Carmo","3/1/2020 - 3/31/2020, Every day, Daily Average",2096,1515,2898
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","331","Jardim Cambará","3/1/2020 - 3/31/2020, Every day, Daily Average",2366,1694,3303
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","332","Jardim João XXIII","3/1/2020 - 3/31/2020, Every day, Daily Average",2305,1722,3084
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","333","Raposo Tavares","3/1/2020 - 3/31/2020, Every day, Daily Average",2148,1616,2855
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","334","Rio Pequeno","3/1/2020 - 3/31/2020, Every day, Daily Average",1771,1281,2447
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","335","Jardim Ester Yolanda","3/1/2020 - 3/31/2020, Every day, Daily Average",2076,1505,2862
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","336","Jardim Adalgiza","3/1/2020 - 3/31/2020, Every day, Daily Average",1750,1259,2431
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","337","Parque Continental","3/1/2020 - 3/31/2020, Every day, Daily Average",1467,1073,2005
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","338","Jaguaré","3/1/2020 - 3/31/2020, Every day, Daily Average",1112,789,1566
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","339","Cidade Universitária","3/1/2020 - 3/31/2020, Every day, Daily Average",1338,925,1935
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","340","Butantã","3/1/2020 - 3/31/2020, Every day, Daily Average",1527,1041,2239
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","341","Jardim Caxingui","3/1/2020 - 3/31/2020, Every day, Daily Average",1819,1295,2553
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","342","Jardim Bonfiglioli","3/1/2020 - 3/31/2020, Every day, Daily Average",1898,1379,2611
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","343","Melhoramentos","3/1/2020 - 3/31/2020, Every day, Daily Average",2144,1626,2825
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","344","Caieiras","3/1/2020 - 3/31/2020, Every day, Daily Average",2030,1638,2515
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","345","Serpa","3/1/2020 - 3/31/2020, Every day, Daily Average",2531,2105,3042
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","346","Santa Inês","3/1/2020 - 3/31/2020, Every day, Daily Average",1545,1184,2014
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","347","Cajamar","3/1/2020 - 3/31/2020, Every day, Daily Average",2245,1698,2966
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","348","Jordanésia","3/1/2020 - 3/31/2020, Every day, Daily Average",1928,1527,2432
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","349","Cristais","3/1/2020 - 3/31/2020, Every day, Daily Average",1781,1434,2211
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","350","Baltazar Fidélis","3/1/2020 - 3/31/2020, Every day, Daily Average",2906,2391,3530
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","351","Franco da Rocha","3/1/2020 - 3/31/2020, Every day, Daily Average",3317,2695,4082
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","358","Mairiporã","3/1/2020 - 3/31/2020, Every day, Daily Average",2658,1886,3744
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","359","Paiva Castro","3/1/2020 - 3/31/2020, Every day, Daily Average",2253,1786,2841
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","360","Colinas","3/1/2020 - 3/31/2020, Every day, Daily Average",3080,2289,4142
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","361","Pirucaia","3/1/2020 - 3/31/2020, Every day, Daily Average",2765,1942,3936
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","362","Guarulhos","3/1/2020 - 3/31/2020, Every day, Daily Average",1441,1025,2024
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","363","Macedo","3/1/2020 - 3/31/2020, Every day, Daily Average",1561,1033,2357
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","364","Cumbica","3/1/2020 - 3/31/2020, Every day, Daily Average",1535,1047,2248
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","365","Várzea do Palácio","3/1/2020 - 3/31/2020, Every day, Daily Average",1335,890,2001
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","366","Ponte Grande","3/1/2020 - 3/31/2020, Every day, Daily Average",1053,693,1597
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","367","Gopouva","3/1/2020 - 3/31/2020, Every day, Daily Average",1456,984,2153
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","368","Vila São Rafael","3/1/2020 - 3/31/2020, Every day, Daily Average",1323,849,2061
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","369","Vila Rosália","3/1/2020 - 3/31/2020, Every day, Daily Average",1730,1147,2607
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","370","André Luiz","3/1/2020 - 3/31/2020, Every day, Daily Average",1945,1373,2755
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","371","Jardim Santa Clara","3/1/2020 - 3/31/2020, Every day, Daily Average",2017,1485,2737
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","372","Parque CECAP","3/1/2020 - 3/31/2020, Every day, Daily Average",1795,1193,2699
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","373","Taboão","3/1/2020 - 3/31/2020, Every day, Daily Average",2099,1459,3018
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","374","Aeroporto","3/1/2020 - 3/31/2020, Every day, Daily Average",1725,1191,2496
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","375","Jardim Presidente Dutra","3/1/2020 - 3/31/2020, Every day, Daily Average",1947,1267,2989
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","376","Baquirivu","3/1/2020 - 3/31/2020, Every day, Daily Average",2152,1444,3205
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","377","Água Chata","3/1/2020 - 3/31/2020, Every day, Daily Average",1970,1276,3039
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","378","Pimentas","3/1/2020 - 3/31/2020, Every day, Daily Average",1708,1123,2596
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","379","Cabuçu","3/1/2020 - 3/31/2020, Every day, Daily Average",1905,1227,2955
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","380","Invernada","3/1/2020 - 3/31/2020, Every day, Daily Average",2431,1686,3504
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","382","Chácaras Bananal","3/1/2020 - 3/31/2020, Every day, Daily Average",2884,1972,4216
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","383","Estrada de Nazaré Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",2712,1574,4672
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","387","Arujá","3/1/2020 - 3/31/2020, Every day, Daily Average",2466,1760,3455
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","388","Fazenda Velha","3/1/2020 - 3/31/2020, Every day, Daily Average",2525,1827,3488
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","393","Santos Dumont","3/1/2020 - 3/31/2020, Every day, Daily Average",3895,2789,5439
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","395","Poá","3/1/2020 - 3/31/2020, Every day, Daily Average",3551,2434,5178
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","396","Itaquaquecetuba","3/1/2020 - 3/31/2020, Every day, Daily Average",3129,2185,4480
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","397","Quinta da Boa Vista","3/1/2020 - 3/31/2020, Every day, Daily Average",2333,1615,3368
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","398","Bonsucesso","3/1/2020 - 3/31/2020, Every day, Daily Average",2291,1535,3417
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","399","Pinheirinho","3/1/2020 - 3/31/2020, Every day, Daily Average",2506,1745,3598
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","400","Miguel Badra","3/1/2020 - 3/31/2020, Every day, Daily Average",3055,1791,5209
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","405","Estudantes","3/1/2020 - 3/31/2020, Every day, Daily Average",3194,2531,4030
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","407","Brás Cubas","3/1/2020 - 3/31/2020, Every day, Daily Average",3617,3004,4354
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","409","Jardim Graziella","3/1/2020 - 3/31/2020, Every day, Daily Average",2784,2126,3644
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","410","Itapeti","3/1/2020 - 3/31/2020, Every day, Daily Average",2824,2166,3680
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","417","Santa Paula","3/1/2020 - 3/31/2020, Every day, Daily Average",2329,1750,3098
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","418","Vila Gerti","3/1/2020 - 3/31/2020, Every day, Daily Average",2600,2016,3352
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","419","Estrada das Lágrimas","3/1/2020 - 3/31/2020, Every day, Daily Average",2383,1845,3076
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","420","Santo Antônio","3/1/2020 - 3/31/2020, Every day, Daily Average",2235,1646,3034
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","421","São Caetano do Sul","3/1/2020 - 3/31/2020, Every day, Daily Average",1980,1433,2735
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","422","Santo André","3/1/2020 - 3/31/2020, Every day, Daily Average",2945,2200,3941
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","423","Vila Gilda","3/1/2020 - 3/31/2020, Every day, Daily Average",3134,2111,4651
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","424","Valparaíso","3/1/2020 - 3/31/2020, Every day, Daily Average",2739,1994,3761
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","425","Sacadura Cabral","3/1/2020 - 3/31/2020, Every day, Daily Average",2761,1942,3924
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","426","Campestre","3/1/2020 - 3/31/2020, Every day, Daily Average",2866,2121,3872
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","427","Utinga","3/1/2020 - 3/31/2020, Every day, Daily Average",2431,1779,3320
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","428","Vila Lucinda","3/1/2020 - 3/31/2020, Every day, Daily Average",2866,2216,3706
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","429","Parque Oratório","3/1/2020 - 3/31/2020, Every day, Daily Average",3061,2444,3832
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","430","Parque das Nações","3/1/2020 - 3/31/2020, Every day, Daily Average",2976,2229,3972
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","431","Jardim do Estádio","3/1/2020 - 3/31/2020, Every day, Daily Average",3628,2752,4781
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","432","Carijós","3/1/2020 - 3/31/2020, Every day, Daily Average",3473,2660,4533
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","433","Parque do Pedroso","3/1/2020 - 3/31/2020, Every day, Daily Average",4175,2989,5830
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","435","Capuava","3/1/2020 - 3/31/2020, Every day, Daily Average",3475,2622,4604
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","436","Mauá","3/1/2020 - 3/31/2020, Every day, Daily Average",3829,2948,4972
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","437","Jardim Zaíra","3/1/2020 - 3/31/2020, Every day, Daily Average",3473,2721,4432
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","440","Ribeirão Pires","3/1/2020 - 3/31/2020, Every day, Daily Average",4648,3360,6427
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","445","Planalto","3/1/2020 - 3/31/2020, Every day, Daily Average",2571,1868,3536
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","446","Paulicéia","3/1/2020 - 3/31/2020, Every day, Daily Average",2328,1683,3220
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","447","Rudge Ramos","3/1/2020 - 3/31/2020, Every day, Daily Average",2438,1658,3583
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","448","Baeta Neves","3/1/2020 - 3/31/2020, Every day, Daily Average",2581,1835,3628
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","449","São Bernardo do Campo","3/1/2020 - 3/31/2020, Every day, Daily Average",2712,1993,3689
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","450","Montanhão","3/1/2020 - 3/31/2020, Every day, Daily Average",3172,2335,4307
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","451","Demarchi","3/1/2020 - 3/31/2020, Every day, Daily Average",2904,2124,3968
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","452","Riacho Grande","3/1/2020 - 3/31/2020, Every day, Daily Average",3625,2531,5191
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","453","Caminho do Mar","3/1/2020 - 3/31/2020, Every day, Daily Average",3267,2494,4278
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","454","Reservatório Billings","3/1/2020 - 3/31/2020, Every day, Daily Average",3312,2286,4798
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","455","Diadema","3/1/2020 - 3/31/2020, Every day, Daily Average",2684,1997,3606
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","456","Jardim das Nações","3/1/2020 - 3/31/2020, Every day, Daily Average",2792,2000,3897
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","457","Piraporinha","3/1/2020 - 3/31/2020, Every day, Daily Average",3020,2080,4384
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","458","Vila Conceição","3/1/2020 - 3/31/2020, Every day, Daily Average",2780,2008,3848
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","459","Eldorado","3/1/2020 - 3/31/2020, Every day, Daily Average",2987,2108,4231
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","460","Taboão da Serra","3/1/2020 - 3/31/2020, Every day, Daily Average",2645,1987,3520
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","461","Jardim Irapuã","3/1/2020 - 3/31/2020, Every day, Daily Average",2857,2203,3704
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","462","Parque Pinheiros","3/1/2020 - 3/31/2020, Every day, Daily Average",2762,2181,3496
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","463","Parque Industrial","3/1/2020 - 3/31/2020, Every day, Daily Average",2866,2263,3629
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","464","Santo Eduardo","3/1/2020 - 3/31/2020, Every day, Daily Average",3350,2696,4162
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","465","São Marcos","3/1/2020 - 3/31/2020, Every day, Daily Average",2659,2044,3458
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","466","Embu das Artes","3/1/2020 - 3/31/2020, Every day, Daily Average",2527,1958,3261
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","467","Ressaca","3/1/2020 - 3/31/2020, Every day, Daily Average",2836,2132,3771
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","468","Itapecerica da Serra","3/1/2020 - 3/31/2020, Every day, Daily Average",3260,2442,4351
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","469","Jardim Petrópolis","3/1/2020 - 3/31/2020, Every day, Daily Average",3707,2869,4789
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","470","Embu-Mirim","3/1/2020 - 3/31/2020, Every day, Daily Average",2901,2267,3711
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","472","Embu-Guaçu","3/1/2020 - 3/31/2020, Every day, Daily Average",4530,3777,5432
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","476","Barueri","3/1/2020 - 3/31/2020, Every day, Daily Average",1866,1401,2485
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","477","Aphaville","3/1/2020 - 3/31/2020, Every day, Daily Average",1618,1207,2168
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","478","Tamboré","3/1/2020 - 3/31/2020, Every day, Daily Average",1663,1242,2225
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","479","Antônio João","3/1/2020 - 3/31/2020, Every day, Daily Average",2047,1528,2742
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","480","Vutopoca","3/1/2020 - 3/31/2020, Every day, Daily Average",2430,1772,3331
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","481","Jardim Silveira","3/1/2020 - 3/31/2020, Every day, Daily Average",2476,1879,3261
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","482","Jardim Belval","3/1/2020 - 3/31/2020, Every day, Daily Average",2221,1730,2850
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","483","Morada dos Lagos","3/1/2020 - 3/31/2020, Every day, Daily Average",1939,1492,2519
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","484","Cidade Ariston","3/1/2020 - 3/31/2020, Every day, Daily Average",2186,1629,2933
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","485","Carapicuíba","3/1/2020 - 3/31/2020, Every day, Daily Average",1710,1280,2284
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","486","Jardim Planalto","3/1/2020 - 3/31/2020, Every day, Daily Average",2052,1574,2674
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","487","Aldeia de Carapicuíba","3/1/2020 - 3/31/2020, Every day, Daily Average",1833,1389,2417
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","488","Estrada do Jacarandá","3/1/2020 - 3/31/2020, Every day, Daily Average",2638,2119,3283
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","489","Osasco","3/1/2020 - 3/31/2020, Every day, Daily Average",1596,1154,2206
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","490","Vila Yara","3/1/2020 - 3/31/2020, Every day, Daily Average",1717,1207,2440
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","491","Bussocaba City","3/1/2020 - 3/31/2020, Every day, Daily Average",2080,1535,2817
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","492","Nova Granada","3/1/2020 - 3/31/2020, Every day, Daily Average",1699,1238,2331
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","493","Recanto das Rosas","3/1/2020 - 3/31/2020, Every day, Daily Average",2020,1555,2623
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","494","Jardim Novo Osasco","3/1/2020 - 3/31/2020, Every day, Daily Average",2206,1678,2899
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","495","Jardim Veloso","3/1/2020 - 3/31/2020, Every day, Daily Average",1807,1369,2384
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","496","Quitaúna","3/1/2020 - 3/31/2020, Every day, Daily Average",1722,1291,2295
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","497","Jardim Piratininga","3/1/2020 - 3/31/2020, Every day, Daily Average",1496,1080,2070
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","498","Presidente Altino","3/1/2020 - 3/31/2020, Every day, Daily Average",1322,933,1872
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","499","Munhoz Junior","3/1/2020 - 3/31/2020, Every day, Daily Average",1303,985,1722
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","500","Rochdale","3/1/2020 - 3/31/2020, Every day, Daily Average",1141,850,1531
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","501","Mutinga","3/1/2020 - 3/31/2020, Every day, Daily Average",975,709,1340
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","502","Três Montanhas","3/1/2020 - 3/31/2020, Every day, Daily Average",1320,975,1786
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","503","Ribeirão Itaqui","3/1/2020 - 3/31/2020, Every day, Daily Average",2070,1595,2685
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","504","Jandira","3/1/2020 - 3/31/2020, Every day, Daily Average",2606,2042,3325
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","505","Ribeirão das Pombas","3/1/2020 - 3/31/2020, Every day, Daily Average",2957,2253,3880
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","506","Granja Viana","3/1/2020 - 3/31/2020, Every day, Daily Average",2203,1718,2824
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","507","Fernando Nobre","3/1/2020 - 3/31/2020, Every day, Daily Average",2529,1976,3236
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","508","Cotia","3/1/2020 - 3/31/2020, Every day, Daily Average",2931,2316,3709
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","512","Vargem Grande Paulista","3/1/2020 - 3/31/2020, Every day, Daily Average",3376,2860,3983
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","514","Itapevi","3/1/2020 - 3/31/2020, Every day, Daily Average",2559,2013,3252
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","515","Amador Bueno","3/1/2020 - 3/31/2020, Every day, Daily Average",2218,1712,2872
+"131","Rodoviaria Tiete, Terminal Rodoviário do Tietê - Vila Guilherme, São Paulo, São Paulo - SP","516","Santana de Parnaíba","3/1/2020 - 3/31/2020, Every day, Daily Average",2194,1652,2912
